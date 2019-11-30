@@ -1,2 +1,2 @@
 # CodeLabs
-Solutions for coding assignments
+Solutions for coding assignments.
